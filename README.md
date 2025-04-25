@@ -1,6 +1,6 @@
 # 👨‍💻 Khaled Nigrou
 
-#### Creative Frontend Developer & Digital Experience Designer  
+**Creative Frontend Developer & Digital Experience Designer**
 *Crafting immersive digital worlds that blend design, 3D, and code with imagination.*
 
 ---
