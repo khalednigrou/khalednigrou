@@ -35,25 +35,56 @@ I care about clarity, motion, atmosphere, maintainability, and building systems 
 - Design engineering systems
 
 ---
-
 ## Technical Core
 
-```txt
-Frontend    React · Next.js · TypeScript · Vue · Svelte
-Styling     TailwindCSS · SCSS · Design Systems
-Motion      GSAP · Framer Motion · Rive
-Graphics    Three.js · WebGL · GLSL · Canvas · SVG
-Backend     Node.js · GraphQL · PostgreSQL · Supabase
-Tooling     Turborepo · pnpm · Docker · GitHub Actions
-Design      Figma · Interaction Design · Prototyping
-```
+### Frontend
 
-![React](https://img.shields.io/badge/React-111111?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript)
-![Three.js](https://img.shields.io/badge/Three.js-111111?style=flat&logo=three.js)
-![GSAP](https://img.shields.io/badge/GSAP-111111?style=flat)
-![WebGL](https://img.shields.io/badge/WebGL-111111?style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white)
+
+TailwindCSS · SCSS · Design Systems
+
+---
+
+### Motion & Graphics
+
+![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js)
+![WebGL](https://img.shields.io/badge/-WebGL-990000?logo=webgl)
+
+GSAP · Framer Motion · GLSL · Canvas · SVG · Rive
+
+---
+
+### Backend & Infrastructure
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+PostgreSQL · Supabase · Turborepo · GitHub Actions · Devcontainers
+
+---
+
+### Design & Creative Tools
+
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white)
+![Spline](https://img.shields.io/badge/-Spline-00B2FF)
+
+Interaction Design · Prototyping · Creative Direction
+
+---
+
+### CMS & Platforms
+
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
+![Strapi](https://img.shields.io/badge/-Strapi-4945FF?logo=strapi&logoColor=white)
+![Contentful](https://img.shields.io/badge/-Contentful-2478CC?logo=contentful&logoColor=white)
+
+microCMS · Headless CMS Architecture · Web3 Integrations
 
 ---
 
